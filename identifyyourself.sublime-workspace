@@ -1,0 +1,1066 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"e"
+			],
+			[
+				"Vote",
+				"Vote"
+			],
+			[
+				"Comment",
+				"CommentOnIdeaHandler"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"User",
+				"UserCreationForm"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/layouts/layout.liquid",
+			"settings":
+			{
+				"buffer_size": 818,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/includes/left.liquid",
+			"settings":
+			{
+				"buffer_size": 37035,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mixture.json",
+			"settings":
+			{
+				"buffer_size": 530,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/includes/navigation.liquid",
+			"settings":
+			{
+				"buffer_size": 213,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/includes/right.liquid",
+			"settings":
+			{
+				"buffer_size": 32554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/styles/sass/your-project.scss",
+			"settings":
+			{
+				"buffer_size": 1507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "compass/config.rb",
+			"settings":
+			{
+				"buffer_size": 595,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				":u",
+				"Convert Case: Upper Case"
+			],
+			[
+				":jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":php",
+				"Set Syntax: PHP"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/simon/src/mixture/identifyyourself/public/styles/sass/your-project.scss",
+		"/Users/simon/Downloads/Universal Principles of Design Notes/Universal Principles of Design Notes.html",
+		"/Users/simon/Desktop/projects/identifyyourself/templates/index.liquid",
+		"/Users/simon/Desktop/projects/identifyyourself/templates/includes/left.liquid",
+		"/Users/simon/Desktop/projects/identifyyourself/public/styles/your-project.css",
+		"/Users/simon/Desktop/projects/ideas/app/management/commands/send_weekly.py",
+		"/Users/simon/Desktop/projects/ideas/templates/email/reminder.txt",
+		"/Users/simon/Desktop/projects/ideas/templates/404.html",
+		"/Users/simon/Desktop/projects/ideas/templates/email/reminder.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/user_settings.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/home.html",
+		"/Users/simon/Desktop/projects/ideas/app/models.py",
+		"/Users/simon/Desktop/projects/ideas/templates/email/slate_invite.html",
+		"/Users/simon/Desktop/projects/ideas/app/slate.py",
+		"/Users/simon/Desktop/projects/ideas/templates/email/weekly.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/splash.html",
+		"/Users/simon/Desktop/projects/ideas/app/helpers.py",
+		"/Users/simon/Desktop/projects/ideas/app/management/commands/reminder.py",
+		"/Users/simon/Desktop/projects/ideas/app/user.py",
+		"/Users/simon/Desktop/projects/ideas/app/views.py",
+		"/Users/simon/Desktop/projects/ideas/templates/email/weekly.txt",
+		"/Users/simon/Desktop/projects/ideas/urls.py",
+		"/Users/simon/Desktop/projects/ideas/templates/main/login.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/slate.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/idea_list.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/base.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/profile.html",
+		"/Users/simon/Desktop/projects/ideas/app/static/js/script.js",
+		"/Users/simon/Desktop/projects/ideas/templates/main/bookmarklet.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/user_profile.html",
+		"/Users/simon/Desktop/projects/ideas/settings.py",
+		"/Users/simon/Desktop/projects/ideas/app/static/styles/style.css",
+		"/Users/simon/Desktop/projects/ideas/templates/main/sub_idea_list_item.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/about.html",
+		"/Users/simon/Desktop/projects/ideas/app/api/handlers.py",
+		"/Users/simon/Desktop/projects/ideas/templates/main/sub_slate_list_item.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/lost_password.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/accept_invite.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/view_slate.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/privacy.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/terms.html",
+		"/Users/simon/Desktop/projects/ideas/app/api/urls.py",
+		"/Users/simon/Desktop/projects/ideas/templates/main/idea.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/user_profile_likes.html",
+		"/Users/simon/Desktop/projects/ideas/app/forms.py",
+		"/Users/simon/Desktop/projects/ideas/templates/main/register.html",
+		"/Users/simon/Desktop/projects/ideas/templates/main/sub_profile_images.html",
+		"/Users/simon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/simon/Desktop/projects/ideas/app/migrations/0016_auto__del_field_userprofile_profile_pic__add_field_userprofile_photo.py",
+		"/Users/simon/Desktop/projects/ideas/templates/main/sub_vote.html",
+		"/Users/simon/Desktop/projects/ideas/app/api/auth.py",
+		"/Users/simon/Desktop/projects/altu/altu/app/forms.py",
+		"/Users/simon/Desktop/projects/ideas/app/middleware.py",
+		"/Users/simon/Desktop/projects/ideas/app/admin.py",
+		"/Users/simon/.bash_history",
+		"/Users/simon/Desktop/projects/ideas/templates/main/sub_search_form.html",
+		"/Applications/MAMP/htdocs/SC/app.js",
+		"/Users/simon/Desktop/projects/appril/appril/settings.py",
+		"/Users/simon/Desktop/projects/ideas/templates/slate/slate_invite.html",
+		"/Users/simon/Desktop/projects/ideas/templates/email/slate_invite.txt",
+		"/Users/simon/Desktop/projects/ideas/manage.py",
+		"/Users/simon/Library/Application Support/Sublime Text 2/Packages/User/Tomorrow-Night.tmTheme",
+		"/Users/simon/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/simon/Desktop/Citizen/website/index.php",
+		"/Users/simon/Desktop/Citizen/website/js/citizen_data.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"George",
+			"top:0px",
+			"top:200",
+			"top:",
+			"top:0px",
+			"width",
+			"img",
+			"@",
+			"header-wra",
+			"@",
+			"max-",
+			"@",
+			".email",
+			"email",
+			"comment",
+			"header-wrapper",
+			"meta",
+			"logout",
+			"settings",
+			"comment-f",
+			"comment-form",
+			"@",
+			"comment",
+			"asdf",
+			"bookma",
+			"submi",
+			"invite",
+			"print",
+			"input",
+			"password",
+			"input",
+			"idea",
+			"ProfileForm",
+			"print \"post\"",
+			"profile",
+			"form",
+			"hover",
+			"profile",
+			"{% url",
+			"width:960px",
+			"splash-footer",
+			"submit",
+			"type=",
+			"noto",
+			"nono",
+			"submit",
+			"input[type=submit]",
+			"404",
+			"splash",
+			"profile",
+			"textarea",
+			"lucida",
+			"Noto",
+			"heart",
+			"content",
+			"io-",
+			".otter",
+			"Noto",
+			"font-family:",
+			"content h3",
+			"search",
+			"print",
+			"slate",
+			"h3",
+			"slate",
+			"print",
+			"textarea",
+			"form",
+			"transformation",
+			"transfor",
+			"animation",
+			"an",
+			"animation",
+			"comment",
+			"slate",
+			"content-menu",
+			"h3",
+			"slate",
+			"slates",
+			"slate",
+			"comment-form tex",
+			"comment",
+			"comments",
+			"tag",
+			"tags",
+			"idea-vote",
+			"span",
+			"started",
+			"focus",
+			"content",
+			"$",
+			"ul.idea_lis",
+			".idea",
+			"#content",
+			"idea-form",
+			"STATIC",
+			"static_doc_root",
+			"image",
+			"register",
+			"#about",
+			"about",
+			"process",
+			"Handling",
+			"ideaotter",
+			"localhost",
+			"curl",
+			"sencha",
+			"#login",
+			"login",
+			"def register",
+			"register",
+			"header",
+			"\\.right",
+			".right",
+			"about",
+			"right",
+			"register",
+			"content",
+			"header",
+			"h1",
+			"otter",
+			"search",
+			"recent-i",
+			"log-in",
+			"login",
+			"splash",
+			"author",
+			"@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"top:20000px",
+			"top:200px",
+			"#content .static-pages",
+			".static-pages"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/layouts/layout.liquid",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/includes/left.liquid",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5428,
+								5428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1244.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mixture.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/includes/navigation.liquid",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "templates/includes/right.liquid",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4447,
+								4447
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 942.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/styles/sass/your-project.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1199,
+								1199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 941.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "compass/config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "identifyyourself.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"proj",
+				"identifyyourself/public/styles/sass/your-project.scss"
+			],
+			[
+				"navi",
+				"identifyyourself/templates/includes/navigation.liquid"
+			],
+			[
+				"mix",
+				"identifyyourself/mixture.json"
+			],
+			[
+				"left",
+				"templates/includes/left.liquid"
+			],
+			[
+				"your",
+				"public/styles/your-project.css"
+			],
+			[
+				"your-proje",
+				"public/styles/sass/your-project.scss"
+			],
+			[
+				"ind",
+				"templates/index.liquid"
+			],
+			[
+				"idea",
+				"templates/main/idea.html"
+			],
+			[
+				"",
+				"app/views.py"
+			],
+			[
+				"remind",
+				"templates/email/reminder.html"
+			],
+			[
+				"slate",
+				"templates/main/view_slate.html"
+			],
+			[
+				"base",
+				"templates/main/base.html"
+			],
+			[
+				"style",
+				"app/static/styles/style.css"
+			],
+			[
+				"model",
+				"app/models.py"
+			],
+			[
+				"comma",
+				"app/management/commands/reminder.py"
+			],
+			[
+				"home",
+				"templates/main/home.html"
+			],
+			[
+				"user",
+				"templates/main/user_settings.html"
+			],
+			[
+				"splash",
+				"templates/main/splash.html"
+			],
+			[
+				"weekly",
+				"templates/email/weekly.html"
+			],
+			[
+				"help",
+				"app/helpers.py"
+			],
+			[
+				"view",
+				"app/views.py"
+			],
+			[
+				"404",
+				"templates/404.html"
+			],
+			[
+				"sendwee",
+				"app/management/commands/send_weekly.py"
+			],
+			[
+				"forms",
+				"app/forms.py"
+			],
+			[
+				"login",
+				"templates/main/login.html"
+			],
+			[
+				"sla",
+				"app/slate.py"
+			],
+			[
+				"mode",
+				"app/models.py"
+			],
+			[
+				"profile",
+				"templates/main/profile.html"
+			],
+			[
+				"user_pro",
+				"templates/main/user_profile.html"
+			],
+			[
+				"sett",
+				"settings.py"
+			],
+			[
+				"urls",
+				"urls.py"
+			],
+			[
+				"spl",
+				"templates/main/splash.html"
+			],
+			[
+				"models",
+				"app/models.py"
+			],
+			[
+				"helpers",
+				"app/helpers.py"
+			],
+			[
+				"about",
+				"templates/main/about.html"
+			],
+			[
+				"prof",
+				"templates/main/user_profile.html"
+			],
+			[
+				"subid",
+				"templates/main/sub_idea_list_item.html"
+			],
+			[
+				"bookm",
+				"templates/main/bookmarklet.html"
+			],
+			[
+				"book",
+				"templates/main/bookmarklet.html"
+			],
+			[
+				"invite",
+				"templates/main/accept_invite.html"
+			],
+			[
+				"subslate",
+				"templates/main/sub_slate_list_item.html"
+			],
+			[
+				"priva",
+				"templates/main/privacy.html"
+			],
+			[
+				"terms",
+				"templates/main/terms.html"
+			],
+			[
+				"splah",
+				"templates/main/splash.html"
+			],
+			[
+				"pass",
+				"templates/main/lost_password.html"
+			],
+			[
+				"us",
+				"app/user.py"
+			],
+			[
+				"api/urls",
+				"app/api/urls.py"
+			],
+			[
+				"api.py",
+				"app/api/handlers.py"
+			],
+			[
+				"regi",
+				"templates/main/register.html"
+			],
+			[
+				"reg",
+				"templates/main/register.html"
+			],
+			[
+				"pro",
+				"templates/main/profile.html"
+			],
+			[
+				"register",
+				"templates/main/register.html"
+			],
+			[
+				"css",
+				"app/static/styles/style.css"
+			],
+			[
+				"templates/main",
+				"templates/main/splash.html"
+			],
+			[
+				"tw",
+				"templates/email/weekly.html"
+			],
+			[
+				"subidelis",
+				"templates/main/sub_idea_list_item.html"
+			],
+			[
+				"subidea",
+				"templates/main/sub_idea_list_item.html"
+			],
+			[
+				"image",
+				"templates/main/sub_profile_images.html"
+			],
+			[
+				"list",
+				"templates/main/sub_idea_list_item.html"
+			],
+			[
+				"helpe",
+				"app/helpers.py"
+			],
+			[
+				"slates",
+				"templates/main/sub_slate_list_item.html"
+			],
+			[
+				"helper",
+				"app/helpers.py"
+			],
+			[
+				"apiurls",
+				"app/api/urls.py"
+			],
+			[
+				"apihan",
+				"app/api/handlers.py"
+			],
+			[
+				"subp",
+				"templates/main/sub_profile_images.html"
+			],
+			[
+				"sub",
+				"templates/main/sub_idea_list_item.html"
+			],
+			[
+				"main/slate",
+				"templates/main/slate.html"
+			],
+			[
+				"idealist",
+				"templates/main/sub_idea_list_item.html"
+			],
+			[
+				"he",
+				"app/helpers.py"
+			],
+			[
+				"sub_",
+				"templates/main/sub_idea_list_item.html"
+			],
+			[
+				"b",
+				"templates/main/base.html"
+			],
+			[
+				"mainsub",
+				"templates/main/sub_vote.html"
+			],
+			[
+				"handler",
+				"app/api/handlers.py"
+			],
+			[
+				"ap",
+				"app/api/auth.py"
+			],
+			[
+				"url",
+				"app/api/urls.py"
+			],
+			[
+				"subidealist",
+				"templates/main/sub_idea_list_item.html"
+			],
+			[
+				"js",
+				"app/static/js/script.js"
+			],
+			[
+				"settings",
+				"settings.py"
+			],
+			[
+				"privacy",
+				"templates/main/privacy.html"
+			],
+			[
+				"templates/main/ter",
+				"templates/main/terms.html"
+			],
+			[
+				"sub_idea_list_item",
+				"templates/main/sub_idea_list_item.html"
+			],
+			[
+				"main/home",
+				"templates/main/home.html"
+			],
+			[
+				"ser",
+				"app/user.py"
+			],
+			[
+				"handl",
+				"app/api/handlers.py"
+			],
+			[
+				"admin",
+				"app/admin.py"
+			],
+			[
+				"appauth",
+				"app/api/auth.py"
+			],
+			[
+				"search",
+				"templates/main/sub_search_form.html"
+			],
+			[
+				"user.",
+				"app/user.py"
+			],
+			[
+				"handle",
+				"app/api/handlers.py"
+			],
+			[
+				"templates/",
+				"templates/main/splash.html"
+			],
+			[
+				"app",
+				"app/api/auth.py"
+			],
+			[
+				"app/api",
+				"app/api/handlers.py"
+			],
+			[
+				"set",
+				"settings.py"
+			],
+			[
+				"form",
+				"app/forms.py"
+			],
+			[
+				"mod",
+				"app/models.py"
+			],
+			[
+				"hel",
+				"app/helpers.py"
+			],
+			[
+				"sen",
+				"app/management/commands/send_weekly.py"
+			],
+			[
+				"accep",
+				"templates/main/accept_invite.html"
+			],
+			[
+				"rls",
+				"urls.py"
+			],
+			[
+				"mana",
+				"app/management/commands/send_weekly.py"
+			],
+			[
+				"js/",
+				"website/js/citizen_data.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 235.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Gill Sans", Arial, Helvetica, serif;
+  font-size: 20px;
+  background-color: #F3F3F3;
+  color: #333;
+}
+
+body {
+  margin: 0;
+  position: relative;
+}
+
+#header {
+  position: relative;
+  background-color: yellow;
+  text-align: center;
+  height: 77px;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.4);
+  z-index: 999;
+}
+#header h1 {
+  margin: 28px 28px 0;
+  font-size: 20px;
+  font-weight: normal;
+  display: inline-block;
+  float: left;
+}
+#header .center {
+  height: 42px;
+  margin: 17px 0 0 -100px;
+  display: inline-block;
+}
+#header .float-right {
+  float: right;
+  margin: 31px 28px;
+}
+
+.container {
+  position: relative;
+  width: 1080px;
+  margin: 0 auto;
+}
+.container h2 {
+  font-family: "Lydian-Bold-Italic-BT", "Gill Sans", Arial, Helvetica, sans-serif;
+}
+.container #left, .container #right {
+  clear: both;
+  display: inline-block;
+  width: 49.5%;
+  height: 100%;
+  position: relative;
+}
+.container #left *, .container #right * {
+  position: absolute;
+}
+.container #left p, .container #right p {
+  margin: 48px 12px;
+}
+.container #left p img, .container #right p img {
+  display: inline-block;
+}
+.container #left p:last-child, .container #right p:last-child {
+  padding-bottom: 200px;
+}
+.container #left a, .container #right a {
+  width: 100%;
+}
+.container #left img, .container #right img {
+  width: 100%;
+}
+.container #left .footnote-number, .container #right .footnote-number {
+  position: static;
+  text-decoration: underline;
+  color: blue;
+}
+.container #left .footnote-number:hover, .container #right .footnote-number:hover {
+  cursor: pointer;
+}
+.container #left .footnote, .container #right .footnote {
+  position: absolute;
+  background: white;
+  padding: 12px;
+  display: none;
+  margin-top: -12px;
+  z-index: 99999;
+}
+.container #left .footnote:hover, .container #right .footnote:hover {
+  display: block;
+}
+.container #left .footnote-number:hover + .footnote, .container #right .footnote-number:hover + .footnote {
+  display: block;
+}
+.container #left {
+  float: left;
+}
+.container #right {
+  float: right;
+  position: absolute;
+  right: 0;
+}
+
+#push-up {
+  height: 30%;
+  display: block;
+}
