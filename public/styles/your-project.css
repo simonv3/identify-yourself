@@ -123,4 +123,8 @@ body {
   display: block;
 }
 
-.container 
+.conclusion {
+  width: 1080px;
+  height: 100%;
+  position: absolute; 
+}
