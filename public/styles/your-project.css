@@ -6,7 +6,7 @@
 html {
   font-family: "Gill Sans", Arial, Helvetica, serif;
   font-size: 20px;
-  background-color: #F3F3F3;
+  background-color: #ffffff;
   color: #333;
 }
 
@@ -75,7 +75,7 @@ body {
 }
 .container #left .footnote-number, .container #right .footnote-number {
   position: static;
-  text-decoration: underline;
+  text-decoration: none;
   color: blue;
 }
 .container #left .footnote-number:hover, .container #right .footnote-number:hover {
@@ -108,3 +108,5 @@ body {
   height: 30%;
   display: block;
 }
+
+
