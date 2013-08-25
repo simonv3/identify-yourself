@@ -48,15 +48,23 @@ body {
 .container h2 {
   font-family: "Lydian-Bold-Italic-BT", "Gill Sans", Arial, Helvetica, sans-serif;
 }
+
+.container h1 {
+		font-family: "Lydian-Bold-Italic-BT", "Gill Sans", Arial, Helvetica, sans-serif;
+		font-size: 70pt;
+		color: yellow;
+		position: absolute;
+}
 .container #left, .container #right {
   clear: both;
   display: inline-block;
   width: 49.5%;
   height: 100%;
-  position: relative;
+  position: relative; 
 }
 .container #left *, .container #right * {
   position: absolute;
+  
 }
 .container #left p, .container #right p {
   margin: 48px 12px;
@@ -69,6 +77,11 @@ body {
 }
 .container #left a, .container #right a {
   width: 100%;
+  position: static;
+}
+.container #left i, .container #right i {
+  width: 100%;
+  position: static;
 }
 .container #left img, .container #right img {
   width: 100%;
@@ -77,6 +90,7 @@ body {
   position: static;
   text-decoration: none;
   color: blue;
+  background-color: yellow;
 }
 .container #left .footnote-number:hover, .container #right .footnote-number:hover {
   cursor: pointer;
@@ -109,4 +123,4 @@ body {
   display: block;
 }
 
-
+.container 
